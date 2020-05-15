@@ -1,0 +1,68 @@
+* {
+  background-color: lightgray
+}
+
+div{
+  background-color:white
+}
+
+#main-image {
+  float: left;
+}
+
+nav {
+  background-color: lightskyblue
+}
+
+
+.Fig {
+  width: 150px;
+  
+}
+
+.Fig1 {
+  width: 300px;
+  
+}
+
+.footnote {
+  height: 20px;
+  text-align: center;
+  position: relative;
+}
+
+h4  {
+  padding-top : 10px;
+  padding-bottom: 10px;
+}
+
+h5  {
+  padding-top : 10px;
+  padding-bottom: 10px;
+}
+
+.navbar-brand {
+  background-color: lightgray;
+  padding-left:20px;
+  padding-right:20px;
+  border-radius:20%;
+}
+
+.DataHeader {
+  padding-left:20px;
+  padding-right: 20;
+}
+
+.row0 {
+  font-weight: 700;
+}
+
+.container {
+  border: black;
+  border-width: thick;
+}
+
+.col-lg-8 {
+  border: black;
+  border-width: thick;
+}
